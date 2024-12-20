@@ -37,6 +37,4 @@ Program ended successfully
 - Ensure to input the birth year as a four-digit integer (e.g., 1990, not '90').
 
 ### Author
-This script was created by GamerIndia
-
-Feel free to adjust the contents of the README file as needed, including adding your name as the author and specifying the license you want to use.
+This script was created by GamerIndia. Under MIT Licence.
